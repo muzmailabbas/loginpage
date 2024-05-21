@@ -92,6 +92,7 @@ html, body {
     .col-md-8 img:hover{
         overflow: hidden;
         padding: 5px;
+        border: 2px dotted  blue;
     }
     .form-group input{
         border: 1px solid #000 !important;
